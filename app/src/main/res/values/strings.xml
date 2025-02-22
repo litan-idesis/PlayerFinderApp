@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PlayerFinderApp</string>
+    <string name="title_activity_private_chat">Private_Chat_Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="friend_profile_picture">friend profile picture</string>
+    <string name="friend_name">Friend Name</string>
+    <string name="remove_friend_description">Remove friend</string>
+    <string name="add_friend_description">Add friend</string>
+    <string name="profile_picture_description">Profile picture</string>
+    <string name="back">Back</string>
+    <string name="filter">Filter</string>
+    <string name="search_by_list_of_favorite_games_of_the_user">Search by list of favorite games of the user</string>
+    <string name="clear_input">Clear input</string>
+    <string name="search">Search</string>
+    <string name="select_profile_picture">Select Profile Picture</string>
+</resources>
